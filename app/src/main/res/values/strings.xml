@@ -2,5 +2,5 @@
     <string name="app_name">Asyntask</string>
     <string name="status_idle">Status: Idle</string>
     <string name="hitung">Hitung 1 + 2 + ... + 100</string>
-    <string name="timer_hitung_mundur">Timer Hitung Mundur</string>
+    <string name="timer_hitung_mundur">Timer Hitung Mundur 5 detik</string>
 </resources>
